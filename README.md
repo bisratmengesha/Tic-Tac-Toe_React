@@ -6,7 +6,7 @@ This is a simple Tic-Tac-Toe game built using react.
 # How to run
 Upload all files and launch the html file on your localhost server.
 # Roadmap of future improvements
-Make the codes a bit more compact
+Add a 'reset' button and  make the codes a bit more compact
 # License
 MIT License
 
